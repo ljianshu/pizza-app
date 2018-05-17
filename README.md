@@ -1,6 +1,7 @@
 # pizza-app
 
 > A Vue.js project
+
 ![pizza点餐](http://p4ygml8h5.bkt.clouddn.com/diancan2.gif)
 
 ## 项目涉及到技术栈：
