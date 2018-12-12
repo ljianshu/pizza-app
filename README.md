@@ -1,8 +1,9 @@
 # pizza-app
 
-> A Vue.js project
-
-![pizza点餐](http://p4ygml8h5.bkt.clouddn.com/diancan2.gif)
+## 项目动态图
+> 如果动态图失效了，请在pizza-app/src/assets/点餐.gif中查看
+      
+![](https://user-gold-cdn.xitu.io/2018/12/12/167a2e8469348a58?w=1454&h=826&f=gif&s=1511412)
 
 ## 项目涉及到技术栈：
 - vue全家桶：Vue、Vue-router、Vue-cli和Vuex
@@ -14,7 +15,7 @@
 - 编辑器：webstrom
 
 ## 项目主要功能
-一款简单点餐PC应用，通过野狗进行数据存储与读取，该应用通过vuex进行状态管理，可以实现登入注册，数据的增删改查。此外通过引入bootstrap样式，实现响应式布局。
+一款入门级点餐PC应用，麻雀虽小五脏俱全！本项目涵盖vue全家桶的相关知识，通过野狗进行数据存储与读取，该应用通过vuex进行状态管理，可以实现登入注册，数据的增删改查。此外通过引入bootstrap样式，实现响应式布局。
 
 
 
